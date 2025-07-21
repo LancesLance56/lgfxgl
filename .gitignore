@@ -1,0 +1,5 @@
+.clang-format
+.cmake
+cmake-build-debug
+imgui.ini
+TODO
